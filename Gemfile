@@ -27,6 +27,22 @@ gem "stimulus-rails"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
 
+# bootstrap
+gem "bootstrap", "~> 5.2"
+
+# autoprefixer
+gem "autoprefixer-rails"
+
+# font awesome
+gem "font-awesome-sass", "~> 6.1"
+
+# simple form
+gem "simple_form"
+
+# SCSS
+gem "sassc-rails"
+
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
